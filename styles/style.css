@@ -57,7 +57,7 @@ section {
     padding-top: 100px;
     display: flex;
     align-items: center;
-    background: url(../images/2.JPG) no-repeat;
+    background-image: url(../images/2.JPG) no-repeat;
     background-size:cover ;
     background-attachment:fixed ;
 }
