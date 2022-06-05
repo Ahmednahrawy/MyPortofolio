@@ -57,10 +57,9 @@ section {
     padding-top: 100px;
     display: flex;
     align-items: center;
-    background: url(../images/2.jpg) no-repeat;
+    background: url(../images/2.JPG) no-repeat;
     background-size:cover ;
-    background-attachment: fixed;
-    z-index: 11;
+    background-attachment:fixed ;
 }
 .main h2 {
     color: var(--third-color);
